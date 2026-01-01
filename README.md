@@ -146,7 +146,7 @@
 <section id="contact">
     <h2>Contact Us</h2>
     <p style="text-align:center;">
-        📞 Phone: +92-XXX-XXXXXXX<br>
+        📞 Phone: +92-333-4344 872<br>
         📧 Email: info@julilantjournes.com<br>
         🌍 Pakistan Sikh Religious Tours
     </p>
